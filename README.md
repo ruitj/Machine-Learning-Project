@@ -14,7 +14,7 @@ The dataset includes over **590,000 claims**, featuring details on injury types,
 **Alternative Dispute Resolution** Adjudication processes external to the Board.   
 **Assembly Date** The date the claim was first assembled.   
 **Attorney/ Representative** Is the claim being represented by an Attorney?   
-**Average Weekly Wage ** The wage used to calculate workers’ compensation, disability, or an Paid Leave wage replacement benefits.      
+**Average Weekly Wage** The wage used to calculate workers’ compensation, disability, or an Paid Leave wage replacement benefits.      
 **Birth Year** The reported year of birth of the injured worker.   
 **C-2 Date** Date of receipt of the Employer's Report of Work-Related; Injury/Illness or equivalent (formerly Form C-2).   
 **C-3 Date** Date Form C-3 (Employee Claim Form) was received.   
